@@ -3,6 +3,11 @@ test + master
 good
 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 new
 >>>>>>> new
+=======
+new
+1
+>>>>>>> new 1
