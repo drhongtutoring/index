@@ -13,3 +13,5 @@
 - portion
 
 # dont
+- korea
+- car
