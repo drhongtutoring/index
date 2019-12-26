@@ -14,5 +14,3 @@
 # dont
 - korea
 - car
-
-# good
